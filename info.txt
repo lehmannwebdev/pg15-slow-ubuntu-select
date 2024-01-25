@@ -63,3 +63,7 @@ union all (SELECT 14 as index, 'SS1000074' as pic_name, s.height, ST_ASEWKT(schw
 
 https://www.postgresql.org/list/pgsql-bugs/
  #18306
+
+
+ https://www.postgresql.org/message-id/18306-204823ef42dc78ea%40postgresql.org
+ 
